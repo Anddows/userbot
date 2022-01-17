@@ -1,7 +1,5 @@
 import time
 import asyncio
-from telethon.tl.functions.account import UpdateProfileRequest
-from Tools.demo.mcast import receiver
 from telethon import TelegramClient, events, sync
 
 api_id = 5693816
